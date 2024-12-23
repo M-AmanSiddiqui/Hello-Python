@@ -3,5 +3,5 @@
 # print(x) 0 
 
 
-num1 = 30
-print(num1 > 10 and num1 > 50 and num1 < 20)
+# num1 = 30
+# print(num1 > 10 and num1 > 50 and num1 < 40)
