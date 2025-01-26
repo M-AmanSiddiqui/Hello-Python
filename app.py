@@ -2,5 +2,14 @@
 # if(marks == "90")
 
 # 26/1/2025
-name ="Aman"
-print(type(name))
+# name= "aman"
+# print(name)
+
+# print(name.count(('a')))
+
+new_str = "iliveinpakistan"
+print(len(new_str))
+
+
+
+
